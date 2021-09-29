@@ -1,5 +1,6 @@
 # Demo
 $$a$$
+[]()
 
 <!-- MathJax -->
 <script type="text/javascript"
